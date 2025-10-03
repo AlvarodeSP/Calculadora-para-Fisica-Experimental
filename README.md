@@ -30,6 +30,8 @@ Após criar o campo, ele aparecerá abaixo e será assim:
 
 <div align="center">
     
-![Foto exemplificando](./imagens/Primeira_Foto.jpg)
+![Foto exemplificando](./imagens/Segunda_Foto.jpg)
 
 </div>
+
+Logo ao lado de Medida X, há um campo no qual é possível nomeá-las, caso não sejam preenchidas, as medidas permanecem com o nome genérico "Medida X", logo ao lado desse campo há outro em que deve ser inserida as medidas, é bom mencionar que esses campos são dinâmicos, ou seja, a medida que você adiciona uma medida e aperta 'Enter', novos campos vão surgindo, não há um limite definido, porém uma quantidade grande de medidas tende a levar a falha (mais de 1000 medidas), estas medidas devem ser escritas com ponto invés de vírgula. Por último, há o campo de incerteza, no qual deve ser informado a Incerteza Instrumental - caso não haja, deve ser escrito 0 para o programa funcionar. Há também o check 'Finalizar', que tranca a linha de medidas e exclue todas as janelas vazias.
