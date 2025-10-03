@@ -11,6 +11,8 @@ Para este programa foi utilizado Python, muito devido a sua facilidade para cria
 
 ## Como usar
 
+### Sigma Direto
+
 O programa é bem simples no quesito de possibilidades, há duas janelas com funcionalidades totalmente distintas.
 A primeira chama-se "Sigma Direto" e nela é possível obter:
     
@@ -35,3 +37,18 @@ Após criar o campo, ele aparecerá abaixo e será assim:
 </div>
 
 Logo ao lado de Medida X, há um campo no qual é possível nomeá-las, caso não sejam preenchidas, as medidas permanecem com o nome genérico "Medida X", logo ao lado desse campo há outro em que deve ser inserida as medidas, é bom mencionar que esses campos são dinâmicos, ou seja, a medida que você adiciona uma medida e aperta 'Enter', novos campos vão surgindo, não há um limite definido, porém uma quantidade grande de medidas tende a levar a falha (mais de 1000 medidas), estas medidas devem ser escritas com ponto invés de vírgula. Por último, há o campo de incerteza, no qual deve ser informado a Incerteza Instrumental - caso não haja, deve ser escrito 0 para o programa funcionar. Há também o check 'Finalizar', que tranca a linha de medidas e exclue todas as janelas vazias.
+
+### Regressão e Plotagem de Gráfico
+
+A segunda janela chama-se "Regressão", na imagem está com o nome de "Regressão Linear" entretanto na versão disponibilizada já está alterada. Nela é possível:
+
+    Gráfico da Regressão Linear
+    Gráfico da Regressão Quadrática
+    Gráfico com uma das Variáveis elevadas ao Quadrado
+    Exportar os Resultados para um Arquivo .xlsx
+
+<div align="center">
+    
+![Foto exemplificando](./imagens/Terceira_Foto.jpg)
+
+</div>
